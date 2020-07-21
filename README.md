@@ -1,2 +1,2 @@
 # eric-weischedel.github.io
-A personal portfolio project
+This repo contains the static files served on ericweischedel.com
